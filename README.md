@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=poohbearr&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=300&text=poohbearr&animation=fadeIn)
 
 ### Hi there 👋
 
